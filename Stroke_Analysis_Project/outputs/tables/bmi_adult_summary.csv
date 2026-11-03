@@ -1,0 +1,4 @@
+population,factor,outcome,missing_n,n,mean,median,sample_std,minimum,maximum
+Adults,bmi,All records,181,4073,30.43275227105328,29.2,7.2351431483402475,11.3,92.0
+Adults,bmi,No recorded stroke,142,3865,30.43078913324709,29.2,7.280699906012744,11.3,92.0
+Adults,bmi,Recorded stroke,39,208,30.46923076923077,29.65,6.344651624505743,16.9,56.6

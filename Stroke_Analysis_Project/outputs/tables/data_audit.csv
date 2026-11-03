@@ -1,0 +1,12 @@
+measure,value
+Raw records,5110
+Raw columns,12
+Exact duplicates removed,0
+Raw repeated IDs,0
+All-age records after cleaning,5110
+Records under 18,856
+Adult records,4254
+Adult stroke records,247
+Adult BMI missing,181
+Adult smoking Unknown,862
+Complete adult records,3256

@@ -1,0 +1,4 @@
+population,factor,outcome,missing_n,n,mean,median,sample_std,minimum,maximum
+Adults,age,All records,0,4254,50.20216267042783,50.5,17.82903459284647,18.0,82.0
+Adults,age,No recorded stroke,0,4007,49.0918392812578,49.0,17.55118186359286,18.0,82.0
+Adults,age,Recorded stroke,0,247,68.21457489878543,71.0,11.55010779000918,32.0,82.0

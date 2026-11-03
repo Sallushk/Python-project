@@ -1,0 +1,32 @@
+report_section,quantity,table_name,key_column,key_value,population,result_column,report_value,decimal_places,comparison_type
+2,All-age records,population_summary,population,All ages,All ages,total_records,5110,0,Same quantity
+2,All-age stroke records,population_summary,population,All ages,All ages,stroke_records,249,0,Same quantity
+3,Adult records,population_summary,population,Adults,Adults,total_records,4254,0,Same quantity
+3,Adult stroke records,population_summary,population,Adults,Adults,stroke_records,247,0,Same quantity
+3,Complete adult records,population_summary,population,Complete adults,Complete adults,total_records,3256,0,Same quantity
+3,Adult BMI missing,data_audit,measure,Adult BMI missing,Any,value,181,0,Same quantity
+3,Adult smoking Unknown,data_audit,measure,Adult smoking Unknown,Any,value,862,0,Same quantity
+6,Adult stroke mean age,primary_tests_adults,factor,age,Adults,mean_stroke,68.21,2,Same quantity
+6,Adult no-stroke mean age,primary_tests_adults,factor,age,Adults,mean_no_stroke,49.09,2,Same quantity
+6,Adult age mean difference,primary_tests_adults,factor,age,Adults,mean_difference_stroke_minus_no_stroke,19.12,2,Same quantity
+6,Adult stroke mean glucose,primary_tests_adults,factor,avg_glucose_level,Adults,mean_stroke,133.10,2,Same quantity
+6,Adult no-stroke mean glucose,primary_tests_adults,factor,avg_glucose_level,Adults,mean_no_stroke,107.00,2,Same quantity
+6,Adult glucose mean difference,primary_tests_adults,factor,avg_glucose_level,Adults,mean_difference_stroke_minus_no_stroke,26.10,2,Same quantity
+6,Adult stroke mean BMI,primary_tests_adults,factor,bmi,Adults,mean_stroke,30.47,2,Same quantity
+6,Adult no-stroke mean BMI,primary_tests_adults,factor,bmi,Adults,mean_no_stroke,30.43,2,Same quantity
+6,Adult BMI mean difference,primary_tests_adults,factor,bmi,Adults,mean_difference_stroke_minus_no_stroke,0.04,2,Same quantity
+6,Adult stroke observed BMI n,primary_tests_adults,factor,bmi,Adults,n_stroke,208,0,Same quantity
+6,Adult no-stroke observed BMI n,primary_tests_adults,factor,bmi,Adults,n_no_stroke,3865,0,Same quantity
+7,Stroke percent without hypertension,hypertension_proportions_adults,hypertension,0,Any,stroke_percent,4.82,2,Same quantity
+7,Stroke percent with hypertension,hypertension_proportions_adults,hypertension,1,Any,stroke_percent,13.28,2,Same quantity
+8,Former smokers stroke percent,smoking_proportions_adults,smoking_status,formerly smoked,Any,stroke_percent,8.14,2,Same quantity
+8,Never smokers stroke percent,smoking_proportions_adults,smoking_status,never smoked,Any,stroke_percent,5.14,2,Same quantity
+8,Current smokers stroke percent,smoking_proportions_adults,smoking_status,smokes,Any,stroke_percent,5.38,2,Same quantity
+8,Unknown smoking stroke percent,smoking_proportions_adults,smoking_status,Unknown,Any,stroke_percent,5.22,2,Same quantity
+9,Adult age p,sensitivity_tests_unadjusted,factor,age,Adults,p_value_unadjusted,3.63e-74,0,Holm versus raw p
+9,Adult glucose p,sensitivity_tests_unadjusted,factor,avg_glucose_level,Adults,p_value_unadjusted,1.08e-09,0,Holm versus raw p
+9,Adult BMI p,sensitivity_tests_unadjusted,factor,bmi,Adults,p_value_unadjusted,0.9328,0,Holm versus raw p
+9,Adult hypertension p,sensitivity_tests_unadjusted,factor,hypertension,Adults,p_value_unadjusted,1.37e-13,0,Holm versus raw p
+9,Adult smoking p,sensitivity_tests_unadjusted,factor,smoking_status,Adults,p_value_unadjusted,0.0143,0,Holm versus raw p
+9,All-age BMI p,sensitivity_tests_unadjusted,factor,bmi,All ages,p_value_unadjusted,6.68e-04,0,Holm versus raw p
+9,Complete adult smoking p,sensitivity_tests_unadjusted,factor,smoking_status,Complete adults,p_value_unadjusted,0.1888,0,Holm versus raw p

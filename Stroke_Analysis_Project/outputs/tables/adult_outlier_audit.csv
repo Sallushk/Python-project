@@ -1,0 +1,4 @@
+factor,observed_n,lower_fence,upper_fence,flagged_n,action
+age,4254,-6.0,106.0,0,Retained
+avg_glucose_level,4254,19.503749999999997,174.11375,594,Retained
+bmi,4073,12.199999999999992,47.400000000000006,112,Retained

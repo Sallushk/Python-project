@@ -1,0 +1,32 @@
+report_section,quantity,population,report_value,calculated_value,assessment
+2,All-age records,All ages,5110.0,5110.0,Matches report to its displayed precision
+2,All-age stroke records,All ages,249.0,249.0,Matches report to its displayed precision
+3,Adult records,Adults,4254.0,4254.0,Matches report to its displayed precision
+3,Adult stroke records,Adults,247.0,247.0,Matches report to its displayed precision
+3,Complete adult records,Complete adults,3256.0,3256.0,Matches report to its displayed precision
+3,Adult BMI missing,Any,181.0,181.0,Matches report to its displayed precision
+3,Adult smoking Unknown,Any,862.0,862.0,Matches report to its displayed precision
+6,Adult stroke mean age,Adults,68.21,68.21457489878543,Matches report to its displayed precision
+6,Adult no-stroke mean age,Adults,49.09,49.0918392812578,Matches report to its displayed precision
+6,Adult age mean difference,Adults,19.12,19.12273561752763,Matches report to its displayed precision
+6,Adult stroke mean glucose,Adults,133.1,133.09854251012143,Matches report to its displayed precision
+6,Adult no-stroke mean glucose,Adults,107.0,106.99897429498378,Matches report to its displayed precision
+6,Adult glucose mean difference,Adults,26.1,26.09956821513765,Matches report to its displayed precision
+6,Adult stroke mean BMI,Adults,30.47,30.46923076923077,Matches report to its displayed precision
+6,Adult no-stroke mean BMI,Adults,30.43,30.43078913324709,Matches report to its displayed precision
+6,Adult BMI mean difference,Adults,0.04,0.038441635983680555,Matches report to its displayed precision
+6,Adult stroke observed BMI n,Adults,208.0,208.0,Matches report to its displayed precision
+6,Adult no-stroke observed BMI n,Adults,3865.0,3865.0,Matches report to its displayed precision
+7,Stroke percent without hypertension,Any,4.82,4.817673675805164,Matches report to its displayed precision
+7,Stroke percent with hypertension,Any,13.28,13.279678068410464,Matches report to its displayed precision
+8,Former smokers stroke percent,Any,8.14,8.13953488372093,Matches report to its displayed precision
+8,Never smokers stroke percent,Any,5.14,5.136986301369863,Matches report to its displayed precision
+8,Current smokers stroke percent,Any,5.38,5.384615384615385,Matches report to its displayed precision
+8,Unknown smoking stroke percent,Any,5.22,5.220417633410673,Matches report to its displayed precision
+9,Adult age p,Adults,3.63e-74,7.253563491578459e-75,Different scales: report Holm-adjusted p; project raw p.
+9,Adult glucose p,Adults,1.08e-09,3.591133242355598e-10,Different scales: report Holm-adjusted p; project raw p.
+9,Adult BMI p,Adults,0.9328,0.9327762898629613,Different scales: report Holm-adjusted p; project raw p.
+9,Adult hypertension p,Adults,1.37e-13,3.4354185266635905e-14,Different scales: report Holm-adjusted p; project raw p.
+9,Adult smoking p,Adults,0.0143,0.007174716372168735,Different scales: report Holm-adjusted p; project raw p.
+9,All-age BMI p,All ages,0.000668,0.00033397100131216003,Different scales: report Holm-adjusted p; project raw p.
+9,Complete adult smoking p,Complete adults,0.1888,0.09441679928955579,Different scales: report Holm-adjusted p; project raw p.

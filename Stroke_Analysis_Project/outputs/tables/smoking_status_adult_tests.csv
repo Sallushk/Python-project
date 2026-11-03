@@ -1,0 +1,2 @@
+population,factor,test,role,H0,H1,alpha,statistic,p_value_unadjusted,degrees_of_freedom,min_expected_count,n_stroke,n_no_stroke,why_selected,conclusion
+Adults,smoking_status,Pearson chi-square (no continuity correction),Primary,Smoking status and recorded stroke status are independent.,Smoking status and recorded stroke status are associated.,0.05,9.87438409625822,0.007174716372168735,2,46.450471698113205,202,3190,Association between categorical variables; check expected cell counts.,Reject H0 at unadjusted alpha=0.05: evidence of an association.

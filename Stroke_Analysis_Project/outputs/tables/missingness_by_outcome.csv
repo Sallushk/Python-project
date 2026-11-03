@@ -1,0 +1,13 @@
+population,stroke,issue,issue_count,group_total,percent
+All ages,0,BMI missing,161,4861,3.3120757045875333
+All ages,0,Smoking Unknown,1497,4861,30.796132483028185
+All ages,1,BMI missing,40,249,16.06425702811245
+All ages,1,Smoking Unknown,47,249,18.87550200803213
+Adults,0,BMI missing,142,4007,3.5437983528824555
+Adults,0,Smoking Unknown,817,4007,20.389318692288494
+Adults,1,BMI missing,39,247,15.789473684210526
+Adults,1,Smoking Unknown,45,247,18.218623481781375
+Complete adults,0,BMI missing,0,3076,0.0
+Complete adults,0,Smoking Unknown,0,3076,0.0
+Complete adults,1,BMI missing,0,180,0.0
+Complete adults,1,Smoking Unknown,0,180,0.0

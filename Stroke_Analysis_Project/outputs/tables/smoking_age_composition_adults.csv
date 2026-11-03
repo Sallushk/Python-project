@@ -1,0 +1,5 @@
+smoking_status,count,mean,median
+Unknown,862,48.53712296983759,48.0
+formerly smoked,860,56.13488372093023,58.0
+never smoked,1752,49.32705479452055,49.0
+smokes,780,47.46666666666667,47.0

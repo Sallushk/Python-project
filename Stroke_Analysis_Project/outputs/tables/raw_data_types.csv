@@ -1,0 +1,13 @@
+index,data_type
+id,int64
+gender,str
+age,float64
+hypertension,int64
+heart_disease,int64
+ever_married,str
+work_type,str
+Residence_type,str
+avg_glucose_level,float64
+bmi,float64
+smoking_status,str
+stroke,int64

@@ -1,0 +1,4 @@
+population,factor,outcome,missing_n,n,mean,median,sample_std,minimum,maximum
+Adults,avg_glucose_level,All records,0,4254,108.51439351198873,92.465,47.76939968824624,55.12,271.74
+Adults,avg_glucose_level,No recorded stroke,0,4007,106.99897429498378,91.95,46.347161232265925,55.12,267.76
+Adults,avg_glucose_level,Recorded stroke,0,247,133.09854251012143,105.92,61.86061682627527,56.11,271.74

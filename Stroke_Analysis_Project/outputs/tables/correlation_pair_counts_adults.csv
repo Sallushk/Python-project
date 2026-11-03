@@ -1,0 +1,7 @@
+variable,age,avg_glucose_level,bmi,hypertension,heart_disease,stroke
+age,4254,4254,4073,4254,4254,4254
+avg_glucose_level,4254,4254,4073,4254,4254,4254
+bmi,4073,4073,4073,4073,4073,4073
+hypertension,4254,4254,4073,4254,4254,4254
+heart_disease,4254,4254,4073,4254,4254,4254
+stroke,4254,4254,4073,4254,4254,4254

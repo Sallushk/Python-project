@@ -1,0 +1,18 @@
+category,total_records,stroke_records,stroke_percent,factor,population
+0,4612,183,3.967909800520382,hypertension,All ages
+1,498,66,13.253012048192772,hypertension,All ages
+Unknown,1544,47,3.0440414507772022,smoking_status,All ages
+formerly smoked,885,70,7.909604519774012,smoking_status,All ages
+never smoked,1892,90,4.7568710359408035,smoking_status,All ages
+smokes,789,42,5.323193916349809,smoking_status,All ages
+0,3757,181,4.817673675805164,hypertension,Adults
+1,497,66,13.279678068410464,hypertension,Adults
+Unknown,862,45,5.220417633410673,smoking_status,Adults
+formerly smoked,860,70,8.13953488372093,smoking_status,Adults
+never smoked,1752,90,5.136986301369863,smoking_status,Adults
+smokes,780,42,5.384615384615385,smoking_status,Adults
+0,2848,123,4.318820224719102,hypertension,Complete adults
+1,408,57,13.970588235294118,hypertension,Complete adults
+formerly smoked,814,57,7.002457002457002,smoking_status,Complete adults
+never smoked,1714,84,4.900816802800467,smoking_status,Complete adults
+smokes,728,39,5.357142857142857,smoking_status,Complete adults

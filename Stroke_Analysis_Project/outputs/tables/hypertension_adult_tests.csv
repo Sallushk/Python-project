@@ -1,0 +1,2 @@
+population,factor,test,role,H0,H1,alpha,statistic,p_value_unadjusted,degrees_of_freedom,min_expected_count,n_stroke,n_no_stroke,why_selected,conclusion
+Adults,hypertension,Pearson chi-square (no continuity correction),Primary,Hypertension and recorded stroke status are independent.,Hypertension and recorded stroke status are associated.,0.05,57.46789195066545,3.4354185266635905e-14,1,28.857310766337566,247,4007,Association between categorical variables; check expected cell counts.,Reject H0 at unadjusted alpha=0.05: evidence of an association.
